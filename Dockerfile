@@ -1,1 +1,1 @@
-FROM redhat
+FROM centos
